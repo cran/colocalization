@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+S3method(summary, colocal)
+S3method(plot, colocal)
+export(nsinc.d)
+export(nsinc.z)
+import(utils)
+import(stats)
+import(ggplot2)

@@ -1,0 +1,15 @@
+e76286719b1c32d954b745f4b97fb113 *DESCRIPTION
+0320f974e44d8bac31c669c2edf5c2a6 *NAMESPACE
+9686d7b1488c6aad20eb346e7fc63f71 *R/nsinc.d.R
+7571ef15b19f5770f06917a2713eacd4 *R/nsinc.z.R
+1ea5234d4bb43c2e302656236f671807 *R/plot.R
+6cded433170f99bbc61e4c79eab22156 *R/summary.R
+ecb8c55de632513007d87a24315bcc1f *data/twolines.rda
+da6935b357475de1718de11413b8db39 *man/nsincd.Rd
+9c0a531186488a8559355e4aa65bebbf *man/nsincz.Rd
+bd4c65b801b46771c53ea0fabbb7865d *man/plot.colocal.Rd
+358e7efc88673b543e6e66eff182189b *man/summary.colocal.Rd
+bea16e93667d47877667e47de538eee5 *man/twolines.Rd
+c3a0537d7f4a577e9c17706d61397a38 *tests/testthat.R
+9c17b1bf7c3510b85cdaeabf2ccb3382 *tests/testthat/test-d.R
+d0c4f8bc42084ffff1419dd57872559d *tests/testthat/test-z.R
