@@ -50,7 +50,7 @@ If the users have their specific proximity size, then they are encouraged to spe
 Xueyan Liu, Jiahui Xu, Cheng Cheng, Hui Zhang.
 }
 \references{
-Liu, X., Xu, J., Guy C., Romero E., Green D., Cheng, C., Zhang, H. (2018). \emph{A novel statistical tool for analyzing colcoalization in super-resolution images}. Manuscript submitted for publication.
+Liu, X., Xu, J., Guy C., Romero E., Green D., Cheng, C., Zhang, H. (2019). \emph{Unbiased and Robust Analysis of Co-localization in Super-resolution Images}. Manuscript submitted for publication.
 }
 \examples{
 ## A simulated 2D example data.
