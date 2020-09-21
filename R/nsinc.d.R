@@ -664,7 +664,7 @@ nsinc.d <- function(data, membership, dim=2, r.min=NULL,r.max=NULL, r.count=NULL
     }
 
     # find the mean of all pairs and store the corresponding r
-    #index.r <- data.frame(index.d = mean(weight[lower.tri(weight)]*correlation[lower.tri(correlation)]),r=r)
+    #index.r <- data.frame(index.d = sum(weight[lower.tri(weight)]*correlation[lower.tri(correlation)]),r=r)
     index.r <- data.frame(index.d = mean(correlation[lower.tri(correlation)]),r=r)
     cat(paste("index.d for r = ",r, " is ", index.r$index.d," ;\n",sep=""))
     index <- rbind(index,index.r)

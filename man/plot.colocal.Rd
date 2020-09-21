@@ -30,6 +30,6 @@ data("twolines")
 twolines.results <- nsinc.d(data = twolines, membership = "membership",
                             dim = 3, r.model = "r.med")
 
-plot(twolines.results)
+##plot(twolines.results)
 }
 
